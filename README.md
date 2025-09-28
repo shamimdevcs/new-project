@@ -1,6 +1,6 @@
 # 👋 Hello, I'm Shamim!
 
-I am a dedicated ** Mobile App Developer** with a passion for building high-performance, cross-platform applications. With extensive experience in **Dart** and the **Flutter framework**, I create beautiful, responsive apps that work seamlessly on both **Android** and **iOS**.
+I am a dedicated **Mobile App Developer** with a passion for building high-performance, cross-platform applications. With extensive experience in **Dart** and the **Flutter framework**, I create beautiful, responsive apps that work seamlessly on both **Android** and **iOS**.
 
 ### 🚀 Skills and Technologies
 
